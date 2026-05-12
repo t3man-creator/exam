@@ -23,5 +23,5 @@
 - Material3
 
 ## Скриншот работы приложения
-![Скриншоты работы приложения](images/screenshot1.png)
-![](images/screenshot2.png)
+![Скриншоты работы приложения](image/screenshot1.png)
+![](image/screenshot2.png)
